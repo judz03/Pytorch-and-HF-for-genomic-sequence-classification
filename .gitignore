@@ -1,0 +1,6 @@
+# Ignore dataset folder
+
+content/
+
+# Ignore DS_Store
+.DS_Store
