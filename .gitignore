@@ -1,6 +1,8 @@
 # Ignore dataset folder
-
 content/
 
 # Ignore DS_Store
 .DS_Store
+
+# Ignore data.csv
+data.csv
