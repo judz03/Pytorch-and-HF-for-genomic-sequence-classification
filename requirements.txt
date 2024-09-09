@@ -2,7 +2,8 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-arm64
 absl-py=2.1.0=pypi_0
-aiohttp=3.9.5=py312he37b823_0
+aiohappyeyeballs=2.4.0=pypi_0
+aiohttp=3.10.5=pypi_0
 aiosignal=1.3.1=pyhd8ed1ab_0
 ansicolors=1.1.8=pyhd8ed1ab_0
 anyio=4.4.0=pyhd8ed1ab_0
@@ -178,7 +179,7 @@ nbformat=5.10.4=pyhd8ed1ab_0
 ncurses=6.5=hb89a1cb_0
 nest-asyncio=1.6.0=pyhd8ed1ab_0
 networkx=3.3=pyhd8ed1ab_1
-nltk=3.8.1=pypi_0
+nltk=3.9.1=pypi_0
 notebook=7.2.2=pyhd8ed1ab_0
 notebook-shim=0.2.4=pyhd8ed1ab_0
 numpy=1.26.4=py312h8442bc7_0
