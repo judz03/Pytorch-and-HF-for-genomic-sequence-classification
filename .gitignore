@@ -6,3 +6,6 @@ content/
 
 # Ignore data.csv
 data.csv
+
+# Ignore test-models
+test-model/
