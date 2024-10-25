@@ -9,3 +9,7 @@ data.csv
 
 # Ignore test-models
 test-model/
+
+# Ignore pdf and pptx files
+*.pdf
+*.pptx
